@@ -70,6 +70,6 @@ pip install opencv-python scikit-learn numpy
 
 ### 🧪 Sample Results
 
-| Input Image                   | Detection Mask           | Classification Result              |
-| ----------------------------- | ------------------------ | ---------------------------------- |
-| ![frame](images/original.png) | ![mask](images/mask.png) | ![plate](images/prediction_example.png) |
+| Input Image                   | Classification Result              |
+| ----------------------------- | ---------------------------------- |
+| ![frame](images/original.png) | ![material](images/prediction_example.png) |
