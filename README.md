@@ -57,21 +57,6 @@ Install dependencies using pip:
 pip install opencv-python scikit-learn numpy
 ```
 
----
-
-### ▶️ How to Run
-
-1. Launch the notebook:
-
-```bash
-jupyter notebook "Garbage-classification.ipynb"
-```
-
-2. Make sure your dataset is inside the `garbage_dataset/` folder with subfolders for each class.
-3. Run all cells to train the model and test it on sample images.
-
----
-
 ### 🔍 Pipeline Summary
 
 1. **Read Image:** Load the input image.
