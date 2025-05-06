@@ -39,11 +39,6 @@ The goal is to automatically sort garbage into one of six material categories: *
 │   ├── paper/
 │   ├── plastic/
 │   ├── board/
-│   └── other/
-├── images/
-│   ├── original.png                    # Example input image
-│   ├── mask.png                        # Example mask after preprocessing
-│   └── prediction_example.png          # Example of classification result
 └── README.md
 ```
 
