@@ -60,16 +60,8 @@ pip install opencv-python scikit-learn numpy
 ### 🔍 Pipeline Summary
 
 1. **Read Image:** Load the input image.
-2. **Grayscale & Blur:** Reduce noise and prepare for segmentation.
-3. **Thresholding & Morphology:** Create binary masks to isolate objects.
-4. **Contour Detection:** Find and crop individual garbage items.
-5. **Feature Extraction:** Extract shape, texture, and/or color features.
-6. **Classification:** Predict material type using a trained ML classifier.
+2. **Feature Extraction:** Extract shape, texture, and/or color features.
+3. **Classification:** Predict material type using a trained ML classifier.
 
 ---
 
-### 🧪 Sample Results
-
-| Input Image                   | Classification Result              |
-| ----------------------------- | ---------------------------------- |
-| ![frame](images/original.png) | ![material](images/prediction_example.png) |
